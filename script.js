@@ -1,7 +1,7 @@
 
 const PUBLIC_KEY = "df5fxmIW3mcK2yIKa";
-const SERVICE_ID = "service_abta3kw";
-const CLIENT_TEMPLATE_ID = "template_twl4o52";
+const SERVICE_ID = "service_abta8kw";
+const CLIENT_TEMPLATE_ID = "template_twl6o52";
 const ADMIN_TEMPLATE_ID = "template_ytg8mwi";
 
 
