@@ -1,0 +1,55 @@
+E-COMMERCE EMAIL CONFIGURATION ASSIGNMENT
+
+Task:
+Perform email configuration to send query received confirmation to client and the actual query to admin once a client submits a query via an HTML form.
+
+Solution:
+This project uses EmailJS to send emails directly from an HTML form. When the client submits the query form, two emails are sent:
+1. Confirmation email to the client.
+2. Query details email to the admin.
+
+Main Files:
+- index.html: Contains the query form.
+- style.css: Contains the design styles.
+- script.js: Contains EmailJS email sending logic.
+- README.md: Contains setup instructions.
+
+Screenshot Spaces:
+Screenshot 1: Project folder in VS Code
+
+
+
+Screenshot 2: EmailJS service configuration
+
+
+
+Screenshot 3: Client email template
+
+
+
+Screenshot 4: Admin email template
+
+
+
+Screenshot 5: HTML query form
+
+
+
+Screenshot 6: Filled query form
+
+
+
+Screenshot 7: Success message
+
+
+
+Screenshot 8: Client confirmation email
+
+
+
+Screenshot 9: Admin query email
+
+
+
+Conclusion:
+The system successfully sends a confirmation email to the client and sends the actual query details to the admin using EmailJS.
